@@ -1,0 +1,12 @@
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\bin\Debug\Tesla Soft.exe.config
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\bin\Debug\Tesla Soft.exe
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\bin\Debug\Tesla Soft.pdb
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\Debug\Tesla Soft.csprojResolveAssemblyReference.cache
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\Debug\Tesla_Soft.Form1.resources
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\Debug\Tesla_Soft.Properties.Resources.resources
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\Debug\Tesla Soft.csproj.GenerateResource.Cache
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\Debug\Tesla Soft.exe
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\Debug\Tesla Soft.pdb
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\bin\Debug\Tesla Soft.exe.config
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla Soft.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla Soft.pdb

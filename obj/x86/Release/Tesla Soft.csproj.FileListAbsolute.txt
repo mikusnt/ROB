@@ -1,0 +1,30 @@
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\Tesla Soft.exe.config
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla_Soft.Properties.Resources.resources
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.csproj.GenerateResource.Cache
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\Tesla Soft.exe
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\Tesla Soft.pdb
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.exe
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.pdb
+c:\users\ms-1\documents\visual studio 2015\Projects\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla_Soft.Form1.resources
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\CircularProgressBar.dll
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\ProgressBar.dll
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\WinFormAnimation.dll
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\CircularProgressBar.xml
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\ProgressBar.xml
+C:\Users\MS-1\Documents\Visual Studio 2015\Projects\Tesla Soft\Tesla Soft\bin\x86\Release\WinFormAnimation.xml
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla_Soft.Properties.Resources.resources
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.csproj.GenerateResource.Cache
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\Tesla Soft.exe.config
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\Tesla Soft.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\Tesla Soft.pdb
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\CircularProgressBar.dll
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\ProgressBar.dll
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\WinFormAnimation.dll
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\CircularProgressBar.xml
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\ProgressBar.xml
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\bin\x86\Release\WinFormAnimation.xml
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.pdb
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla Soft.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Dysk Google\Programowanie\C#\Tesla Soft\Tesla Soft\obj\x86\Release\Tesla_Soft.Okno.resources

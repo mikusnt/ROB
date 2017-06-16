@@ -1,0 +1,9 @@
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\bin\Debug\Tesla Soft.exe.config
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\bin\Debug\Tesla Soft.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\bin\Debug\Tesla Soft.pdb
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\ROB.csprojResolveAssemblyReference.cache
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla_Soft.Okno.resources
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla_Soft.Properties.Resources.resources
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\ROB.csproj.GenerateResource.Cache
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla Soft.exe
+C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla Soft.pdb
