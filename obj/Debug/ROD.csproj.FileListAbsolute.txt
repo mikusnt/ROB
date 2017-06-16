@@ -1,0 +1,9 @@
+C:\git\ROB\bin\Debug\Tesla Soft.exe.config
+C:\git\ROB\bin\Debug\Tesla Soft.exe
+C:\git\ROB\bin\Debug\Tesla Soft.pdb
+C:\git\ROB\obj\Debug\ROD.csprojResolveAssemblyReference.cache
+C:\git\ROB\obj\Debug\Tesla_Soft.Okno.resources
+C:\git\ROB\obj\Debug\Tesla_Soft.Properties.Resources.resources
+C:\git\ROB\obj\Debug\ROD.csproj.GenerateResource.Cache
+C:\git\ROB\obj\Debug\Tesla Soft.exe
+C:\git\ROB\obj\Debug\Tesla Soft.pdb

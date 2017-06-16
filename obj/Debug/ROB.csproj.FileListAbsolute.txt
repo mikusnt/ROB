@@ -7,3 +7,6 @@ C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla_Soft.Properties.R
 C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\ROB.csproj.GenerateResource.Cache
 C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla Soft.exe
 C:\Users\MS-1\Dysk Google\Programowanie\C#\ROB\obj\Debug\Tesla Soft.pdb
+C:\git\ROB\bin\Debug\Tesla Soft.exe.config
+C:\git\ROB\obj\Debug\Tesla Soft.exe
+C:\git\ROB\obj\Debug\Tesla Soft.pdb
